@@ -1,1 +1,2 @@
 A new story
+I am making changes to this story to log it again when merged.
