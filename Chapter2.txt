@@ -1,0 +1,2 @@
+This is a new chapter on master branch.
+I am simultaneously working on master and forked branch.
